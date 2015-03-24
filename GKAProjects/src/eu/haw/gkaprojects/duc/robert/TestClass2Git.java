@@ -5,7 +5,7 @@ public class TestClass2Git
 
 	public static void main(String[] args)
 	{
-		// TODO Auto-generated method 
+		// SUPER, DASS SCHEINT GANZ KLASSE ZU FUNKTIONIEREN!!!!!!!!!!!!!!!!!!!!!!!
 
 	}
 
