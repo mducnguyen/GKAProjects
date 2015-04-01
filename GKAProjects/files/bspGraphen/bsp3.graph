@@ -2,16 +2,16 @@
 Paderborn:221,Hamburg:0::228
 Bremen:95,Hamburg:0::127
 Bremen:95,Bremerhaven:179::66
-Norderstedt:24, Bremerhaven:179::191
+Norderstedt:24,Bremerhaven:179::191
 Norderstedt:24,Husum:120::145
 Kiel:86,Husum:120::86
-Lüneburg:44,Lübeck:57::115
-Lüneburg:44,Soltau:63::52
+Lï¿½neburg:44,Lï¿½beck:57::115
+Lï¿½neburg:44,Soltau:63::52
 Hameln:166,Soltau:63::134
 Hameln:166,Paderborn:221::134
 Hameln:166,Detmold:195::45
-Münster:237,Bremen:95::173
-Münster:237,Minden:157::131
+Mï¿½nster:237,Bremen:95::173
+Mï¿½nster:237,Minden:157::131
 Minden:157,Hannover:132::76
 Hannover:132,Oldenburg:126::169
 Oldenburg:126,Cuxhaven:92::105
@@ -21,16 +21,16 @@ Bremerhaven:179,Rotenburg:63::108
 Rotenburg:63,Soltau:63::41
 Minden:157,Rotenburg:63::171
 Rotenburg:63,Uelzen:94::104
-Lüneburg:44,Buxtehude:20::66
+Lï¿½neburg:44,Buxtehude:20::66
 Uelzen:94,Hameln:166::160
 Hameln:166,Walsrode:81::116
 Walsrode:81,Hamburg:0::101
 Walsrode:81,Minden:157::126
-Münster:237,Walsrode:81::226
-Lüneburg:44,Münster:237::295
-Münster:237,Paderborn:221::149
+Mï¿½nster:237,Walsrode:81::226
+Lï¿½neburg:44,Mï¿½nster:237::295
+Mï¿½nster:237,Paderborn:221::149
 
-Lüneburg:44,Hamburg:0::55
+Lï¿½neburg:44,Hamburg:0::55
 Kiel:86,Uelzen:94::190
 Oldenburg:126,Celle:103::167
 Celle:103,Hannover:132::43

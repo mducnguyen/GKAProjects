@@ -5,9 +5,10 @@ public interface Vertex {
 	/**
 	 * return the label of the vertex
 	 */
-	public String getName();
+	public String getLabel();
 	
 	/**
 	 * 
 	 */
+	public int getAttribut();
 }
